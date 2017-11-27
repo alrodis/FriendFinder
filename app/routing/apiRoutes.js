@@ -43,6 +43,3 @@ module.exports = function (app) {
 	});
 };
 
-//do I really need to push the scores array back to received results?
-//create a few more entries in friends.js file
-//use the latest user input to do the calculation against the other users in the friends.js file
