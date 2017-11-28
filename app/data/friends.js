@@ -2,7 +2,7 @@
 var resultsArray = [
 	{
 		"name": "Alvin Rodis",
-		"photo": "https://github.com/alrodis",
+		"photo": "https://pbs.twimg.com/media/CO0Rc9sWIAAI57J.png",
 		"scores": [5,1,2,4,5,2,3,5,1,3]
 	},
 	{
